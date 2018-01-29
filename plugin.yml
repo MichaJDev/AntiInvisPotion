@@ -1,0 +1,5 @@
+main: nl.michaj.antiinvispotion.main.Main
+name: Anti Invis Potion
+description: Disable all invisibility potions.
+authors: [xFlakesID, VyxisPrime,MichaJDev]
+version: 1.0
